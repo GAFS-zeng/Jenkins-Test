@@ -1,0 +1,6 @@
+congif:
+  ecu_test_version: ecu.test 2024.2
+  workspace_dir: C:/Users/ZENGJUNBIAO/Desktop/ECU-TEST/ECU-TEST_Basic/ECU-TEST_Basic
+  test_case_path: BasicDrive.pkg
+  tbc_path: Testlab_HiL_M.tbc
+  tcf_path: SW_Ver_1.tcf
